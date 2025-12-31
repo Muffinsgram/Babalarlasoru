@@ -1,0 +1,352 @@
+[
+    {
+        "question": "C# dilinde bir değişkeni tam sayıya (integer) dönüştürmek için hangisi kullanılır?",
+        "options": ["Convert.ToDouble", "Convert.ToInt32", "Convert.ToString", "Convert.ToBoolean"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Bir metin içerisindeki belirli bir karakterin indeksini (sırasını) bulan metot hangisidir?",
+        "options": ["Length", "Substring", "IndexOf", "Trim"],
+        "answer": 2,
+        "mode": "flashlight",
+        "time": 20
+    },
+    {
+        "question": "for(;;) döngüsünün anlamı nedir?",
+        "options": ["Hata verir", "Sonsuz döngü oluşturur", "Hiç çalışmaz", "Bir kez çalışır"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "AYNA MODU: Bir dizinin eleman sayısını veren özellik hangisidir?",
+        "options": ["Count", "Size", "Length", "Capacity"],
+        "answer": 2,
+        "mode": "mirror",
+        "time": 20
+    },
+    {
+        "question": "ListBox içindeki tüm elemanları silmek için hangi komut kullanılır?",
+        "options": ["ListBox1.Items.Remove()", "ListBox1.Items.Clear()", "ListBox1.Items.Delete()", "ListBox1.Delete()"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "GLITCH MODU: 'if (i % 2 == 0)' koşulu neyi kontrol eder?",
+        "options": ["Sayının tek olduğunu", "Sayının pozitif olduğunu", "Sayının çift olduğunu", "Sayının asal olduğunu"],
+        "answer": 2,
+        "mode": "glitch",
+        "time": 20
+    },
+    {
+        "question": "C# dilinde şimdiki zamanın tarih ve saat bilgisini almak için hangisi kullanılır?",
+        "options": ["Date.Now", "DateTime.Now", "Time.Current", "DateTime.Today"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Bir switch-case yapısında, hiçbir şarta uyulmadığında çalışan blok hangisidir?",
+        "options": ["default", "break", "case else", "return"],
+        "answer": 0,
+        "mode": "earthquake",
+        "time": 20
+    },
+    {
+        "question": "Bir metni belirli bir karaktere göre parçalayıp diziye atan metot hangisidir?",
+        "options": ["Cut", "Piece", "Split", "Divide"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "ASP.NET'te ekrana yazı yazdırmak için kullanılan komut hangisidir?",
+        "options": ["Console.Write", "Response.Write", "Print.Screen", "System.Out"],
+        "answer": 1,
+        "mode": "upside-down",
+        "time": 25
+    },
+    {
+        "question": "ListBox'a yeni bir eleman eklemek için kullanılan komut hangisidir?",
+        "options": ["Items.Insert", "Items.Add", "Items.New", "Items.Create"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "KARANLIK MOD: 'string[] isimler = new string[5];' dizisi kaç elemanlıdır?",
+        "options": ["4", "5", "6", "Belirsiz"],
+        "answer": 1,
+        "mode": "flashlight",
+        "time": 20
+    },
+    {
+        "question": "Bir döngüyü kırmak ve sonlandırmak için kullanılan anahtar kelime nedir?",
+        "options": ["stop", "exit", "break", "continue"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Hangi değişken tipi ondalıklı sayıları saklamak için uygundur?",
+        "options": ["int", "string", "double", "bool"],
+        "answer": 2,
+        "mode": "spin",
+        "time": 20
+    },
+    {
+        "question": "Bir ListBox'ta seçili olan elemanın metnini almak için hangisi kullanılır?",
+        "options": ["SelectedItem.Text", "SelectedValue", "SelectedIndex", "Items[0]"],
+        "answer": 0,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "C# dilinde mantıksal 'VE' operatörü hangisidir?",
+        "options": ["||", "&&", "&", "!"],
+        "answer": 1,
+        "mode": "mirror",
+        "time": 20
+    },
+    {
+        "question": "Bir sınıftan nesne türetmek için kullanılan anahtar kelime nedir?",
+        "options": ["create", "class", "new", "object"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Sayfa ilk kez yükleniyorsa çalışan blok hangisidir?",
+        "options": ["if (!IsPostBack)", "if (IsPostBack)", "Page_Init", "Session_Start"],
+        "answer": 0,
+        "mode": "glitch",
+        "time": 25
+    },
+    {
+        "question": "string x = '10'; int y = 5; işleminin sonucu x + y nedir?",
+        "options": ["15", "105", "Hata verir", "50"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 20
+    },
+    {
+        "question": "Bir metindeki harfleri büyük harfe çeviren metot hangisidir?",
+        "options": ["ToLower()", "ToUpper()", "BigText()", "Capitalize()"],
+        "answer": 1,
+        "mode": "earthquake",
+        "time": 20
+    },
+    {
+        "question": "Döngüde bir sonraki adıma atlamak için kullanılan komut nedir?",
+        "options": ["pass", "next", "continue", "skip"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "int[] sayilar = {10, 20, 30}; sayilar[1] değeri nedir?",
+        "options": ["10", "20", "30", "Hata"],
+        "answer": 1,
+        "mode": "flashlight",
+        "time": 20
+    },
+    {
+        "question": "Hangisi geçerli bir değişken tanımlamasıdır?",
+        "options": ["1sayi = 5;", "int sayi = 5;", "int 1sayi = 5;", "sayi int = 5;"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Response.Redirect('index.aspx') komutu ne işe yarar?",
+        "options": ["Sayfayı yeniler", "Sayfayı kapatır", "Başka sayfaya yönlendirir", "Mesaj kutusu açar"],
+        "answer": 2,
+        "mode": "upside-down",
+        "time": 20
+    },
+    {
+        "question": "Bir metodun geriye değer döndürmediğini belirtmek için ne kullanılır?",
+        "options": ["null", "empty", "void", "return"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Hangisi bir erişim belirleyici (Access Modifier) değildir?",
+        "options": ["public", "private", "protected", "global"],
+        "answer": 3,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "try-catch bloğu ne işe yarar?",
+        "options": ["Döngü kurar", "Hata yakalar", "Veritabanı bağlar", "Dosya okur"],
+        "answer": 1,
+        "mode": "spin",
+        "time": 20
+    },
+    {
+        "question": "Trim() metodu ne işe yarar?",
+        "options": ["Metni siler", "Metni böler", "Baştaki ve sondaki boşlukları siler", "Boşluk ekler"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Session nesnesi nerede saklanır?",
+        "options": ["İstemci (Tarayıcı)", "Sunucu (Server)", "Veritabanı", "Cookie"],
+        "answer": 1,
+        "mode": "mirror",
+        "time": 20
+    },
+    {
+        "question": "Bir sayının karesini almak için kullanılan Math sınıfı metodu hangisidir?",
+        "options": ["Math.Sqrt", "Math.Pow", "Math.Abs", "Math.Round"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 20
+    },
+    {
+        "question": "Hangisi mantıksal 'VEYA' operatörüdür?",
+        "options": ["&&", "||", "??", "!!"],
+        "answer": 1,
+        "mode": "flashlight",
+        "time": 15
+    },
+    {
+        "question": "ListBox1.Items.Count komutu neyi verir?",
+        "options": ["Seçili elemanı", "Eleman sayısını", "Son elemanı", "Karakter sayısını"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "const int pi = 3; ifadesinin özelliği nedir?",
+        "options": ["Değeri değiştirilebilir", "Sadece pozitif alır", "Değeri değiştirilemez (sabit)", "Hatalı tanımdır"],
+        "answer": 2,
+        "mode": "glitch",
+        "time": 20
+    },
+    {
+        "question": "Bir değişkenin değerini 1 artırmak için hangisi kullanılır?",
+        "options": ["i--", "i = 1", "i++", "i**"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 10
+    },
+    {
+        "question": "ASP.NET dosyalarının uzantısı genellikle nedir?",
+        "options": [".html", ".php", ".aspx", ".cs"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "C# dilinde yorum satırı (tek satır) nasıl yapılır?",
+        "options": ["", "//", "/* */", "#"],
+        "answer": 1,
+        "mode": "earthquake",
+        "time": 15
+    },
+    {
+        "question": "Hangi döngü çeşidi koşul yanlış olsa bile en az bir kez çalışır?",
+        "options": ["while", "for", "do-while", "foreach"],
+        "answer": 2,
+        "mode": "normal",
+        "time": 20
+    },
+    {
+        "question": "TextBox1.Text özelliğinin veri tipi nedir?",
+        "options": ["int", "string", "double", "object"],
+        "answer": 1,
+        "mode": "upside-down",
+        "time": 15
+    },
+    {
+        "question": "Convert.ToBoolean(0) işleminin sonucu nedir?",
+        "options": ["True", "False", "Hata", "Null"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 20
+    },
+    {
+        "question": "Dizilerde indeks numaraları kaçtan başlar?",
+        "options": ["0", "1", "-1", "Tanımlamaya bağlı"],
+        "answer": 0,
+        "mode": "flashlight",
+        "time": 15
+    },
+    {
+        "question": "DropDownList kontrolünde seçili değeri almak için ne kullanılır?",
+        "options": ["SelectedText", "SelectedValue", "CheckedValue", "ItemValue"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "static void Main() metodundaki 'static' ne anlama gelir?",
+        "options": ["Nesne türetmeden çağrılabilir", "Değiştirilemez", "Gizli metot", "Geriye değer döndürmez"],
+        "answer": 0,
+        "mode": "spin",
+        "time": 25
+    },
+    {
+        "question": "Hangisi bir karşılaştırma operatörü DEĞİLDİR?",
+        "options": ["==", "!=", ">=", "="],
+        "answer": 3,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Substring(2, 3) metodu 'ADANA' kelimesi için ne döndürür?",
+        "options": ["ADA", "DAN", "ANA", "ANA (sondaki)"],
+        "answer": 2,
+        "mode": "mirror",
+        "time": 25
+    },
+    {
+        "question": "CheckBox kontrolünün işaretli olup olmadığını anlamak için hangi özellik kullanılır?",
+        "options": ["Selected", "Checked", "Enabled", "Visible"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 15
+    },
+    {
+        "question": "Request.QueryString ne işe yarar?",
+        "options": ["URL'den veri alır", "Formdan veri alır", "Session okur", "Cookie yazar"],
+        "answer": 0,
+        "mode": "glitch",
+        "time": 20
+    },
+    {
+        "question": "char veri tipi ne saklar?",
+        "options": ["Metin", "Tek bir karakter", "Tam sayı", "Tarih"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 10
+    },
+    {
+        "question": "Bir sınıftaki private değişkene dışarıdan erişmek için ne kullanılır?",
+        "options": ["Global", "Property (Özellik)", "Static", "Void"],
+        "answer": 1,
+        "mode": "normal",
+        "time": 20
+    },
+    {
+        "question": "Hangisi bir referans tipidir (Reference Type)?",
+        "options": ["int", "double", "bool", "string"],
+        "answer": 3,
+        "mode": "earthquake",
+        "time": 20
+    },
+    {
+        "question": "Sınavda başarılar! 50. sorunun cevabı A şıkkı.",
+        "options": ["A", "B", "C", "D"],
+        "answer": 0,
+        "mode": "normal",
+        "time": 10
+    }
+]
